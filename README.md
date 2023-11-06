@@ -1,5 +1,7 @@
 # cstring
 
+This is a work in progress.
+
 Just a very simple Cstring type to interface with C a little easier
 
 ```d
