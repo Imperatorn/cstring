@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/hellotest
+hellotest.so
+hellotest.dylib
+hellotest.dll
+hellotest.a
+hellotest.lib
+hellotest-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

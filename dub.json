@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"johan.forsberg"
+	],
+	"description": "A very simple cstring",
+	"license": "proprietary",
+	"name": "cstring",
+	"targetType": "library"
+}
